@@ -17,7 +17,7 @@ void hybridOperations();
 void comments(bool);
 void monitorPerformance(double, double);
 
-int main()
+void main()
 {
 	CAI();
 }
